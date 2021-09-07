@@ -1,2 +1,3 @@
 demo file
 Here is another line.
+This is a line added from notepad.
